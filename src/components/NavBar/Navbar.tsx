@@ -129,7 +129,7 @@ class Navbar extends React.Component<IProps, IState> {
             </NavLink>
 
             <NavLink to='/hierachy' className='single_item'>
-              Hierachy {this.props.message}
+              Hieoachy {this.props.message}
               <span></span>
             </NavLink>
 
